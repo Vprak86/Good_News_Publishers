@@ -29,7 +29,7 @@ $user = $_SESSION["user"];
     <nav>
         <div class="main-nav container flex">
             <a href="#" onclick="reload()" >
-                <img class="company-logo" src="../assets/logo2.png" alt="company logo">
+                <img class="company-logo" src="../assets/logo2.jpg" alt="company logo">
             </a>
             <div class="nav-links">
                 <ul class="flex">
