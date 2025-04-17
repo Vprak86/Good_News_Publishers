@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     padding:50px;
     background-color: black; 
@@ -12,4 +13,20 @@ body{
 }
 .form-group{
     margin-bottom:30px;
+=======
+body{
+    padding:50px;
+    background-color: black; 
+}
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: rgb(20, 19, 19);
+
+}
+.form-group{
+    margin-bottom:30px;
+>>>>>>> 644dc8f48231957c13f12c78b884c6763599c872
 }
